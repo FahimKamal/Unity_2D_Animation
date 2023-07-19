@@ -1,0 +1,653 @@
+fileFormatVersion: 2
+guid: 83932c5a6df759b4f95da077ea35c625
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: Policeman Walk Cycle_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 6960
+      height: 3984
+    spriteID: 433ebde84ef45df479289b5c84368dab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: 1_police_Walk_007
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1886
+      y: 4
+      width: 825
+      height: 1782
+    spriteID: c85d2804139caf0408f24611a07c1b4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1886, y: 4}
+    spritePosition: {x: 6081, y: 2132}
+  - name: 1_police_Walk_006
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2719
+      y: 1821
+      width: 735
+      height: 1776
+    spriteID: 99b8835c52b6ecc4cbd1f3ff5db65edb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2719, y: 1821}
+    spritePosition: {x: 5319, y: 2141}
+  - name: 1_police_Walk_005
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2719
+      y: 4
+      width: 733
+      height: 1809
+    spriteID: 1d5e101f45888c34cb9d08dc5e865002
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2719, y: 4}
+    spritePosition: {x: 4551, y: 2114}
+  - name: 1_police_Walk_004
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1000
+      y: 3640
+      width: 833
+      height: 1822
+    spriteID: 3fb7cef4594738745bed8b6cebb89ea7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 3640}
+    spritePosition: {x: 3679, y: 2105}
+  - name: 1_police_Walk_003
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1886
+      y: 5342
+      width: 735
+      height: 1806
+    spriteID: fb1c7711bf7067647b8926135986fd35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1886, y: 5342}
+    spritePosition: {x: 2888, y: 2123}
+  - name: 1_police_Walk_002
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1000
+      y: 1822
+      width: 841
+      height: 1810
+    spriteID: 4aa3608c43ec0114981231549711dc8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 1822}
+    spritePosition: {x: 2025, y: 2122}
+  - name: 1_police_Walk_001
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5403
+      width: 899
+      height: 1810
+    spriteID: 0fd8b388beef23c44a8347991f57b792
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5403}
+    spritePosition: {x: 1042, y: 2113}
+  - name: 1_police_Walk_000
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3610
+      width: 940
+      height: 1785
+    spriteID: 4edae2f40b842a74eba4b2512836f892
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3610}
+    spritePosition: {x: 67, y: 2126}
+  - name: 1_police_Run_005
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1886
+      y: 3573
+      width: 770
+      height: 1761
+    spriteID: 670a66b6925d1f943824a3f1b7a0d1e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1886, y: 3573}
+    spritePosition: {x: 4752, y: 119}
+  - name: 1_police_Run_004
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1000
+      y: 4
+      width: 878
+      height: 1810
+    spriteID: d2d36f65162b59b47bd4ef1b008749e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 4}
+    spritePosition: {x: 3854, y: 107}
+  - name: 1_police_Run_003
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 988
+      height: 1802
+    spriteID: c52c5703edfd157459494c5e2db0f45d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 2846, y: 87}
+  - name: 1_police_Run_002
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1814
+      width: 984
+      height: 1788
+    spriteID: 6d0bb61cbb3af11498586e1288912a75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1814}
+    spritePosition: {x: 1852, y: 106}
+  - name: 1_police_Run_001
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1000
+      y: 5470
+      width: 829
+      height: 1806
+    spriteID: 2b386c1f4bc5ddf4b83830ca40d02c32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 5470}
+    spritePosition: {x: 1015, y: 94}
+  - name: 1_police_Run_000
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1886
+      y: 1794
+      width: 820
+      height: 1771
+    spriteID: 1ae4927b5009bf847ad1621bc3a0c868
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1886, y: 1794}
+    spritePosition: {x: 175, y: 103}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Group 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: e714a67947f7b1944aabcaa46723d3a6
+    layerID: 23
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 1_police_Walk_007
+    spriteName: 1_police_Walk_007
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c85d2804139caf0408f24611a07c1b4e
+    layerID: 22
+    mosaicPosition: {x: 1886, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Walk_006
+    spriteName: 1_police_Walk_006
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 99b8835c52b6ecc4cbd1f3ff5db65edb
+    layerID: 21
+    mosaicPosition: {x: 2719, y: 1821}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Walk_005
+    spriteName: 1_police_Walk_005
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1d5e101f45888c34cb9d08dc5e865002
+    layerID: 20
+    mosaicPosition: {x: 2719, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Walk_004
+    spriteName: 1_police_Walk_004
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3fb7cef4594738745bed8b6cebb89ea7
+    layerID: 19
+    mosaicPosition: {x: 1000, y: 3640}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Walk_003
+    spriteName: 1_police_Walk_003
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fb1c7711bf7067647b8926135986fd35
+    layerID: 18
+    mosaicPosition: {x: 1886, y: 5342}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Walk_002
+    spriteName: 1_police_Walk_002
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4aa3608c43ec0114981231549711dc8a
+    layerID: 17
+    mosaicPosition: {x: 1000, y: 1822}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Walk_001
+    spriteName: 1_police_Walk_001
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0fd8b388beef23c44a8347991f57b792
+    layerID: 16
+    mosaicPosition: {x: 4, y: 5403}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Walk_000
+    spriteName: 1_police_Walk_000
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4edae2f40b842a74eba4b2512836f892
+    layerID: 15
+    mosaicPosition: {x: 4, y: 3610}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Group 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 3d2d536e7f991a04db610591fd5e9943
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 1_police_Run_005
+    spriteName: 1_police_Run_005
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 670a66b6925d1f943824a3f1b7a0d1e7
+    layerID: 10
+    mosaicPosition: {x: 1886, y: 3573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Run_004
+    spriteName: 1_police_Run_004
+    isGroup: 0
+    parentIndex: 9
+    spriteID: d2d36f65162b59b47bd4ef1b008749e9
+    layerID: 9
+    mosaicPosition: {x: 1000, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Run_003
+    spriteName: 1_police_Run_003
+    isGroup: 0
+    parentIndex: 9
+    spriteID: c52c5703edfd157459494c5e2db0f45d
+    layerID: 8
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Run_002
+    spriteName: 1_police_Run_002
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 6d0bb61cbb3af11498586e1288912a75
+    layerID: 7
+    mosaicPosition: {x: 4, y: 1814}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Run_001
+    spriteName: 1_police_Run_001
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 2b386c1f4bc5ddf4b83830ca40d02c32
+    layerID: 6
+    mosaicPosition: {x: 1000, y: 5470}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1_police_Run_000
+    spriteName: 1_police_Run_000
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 1ae4927b5009bf847ad1621bc3a0c868
+    layerID: 5
+    mosaicPosition: {x: 1886, y: 1794}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 0
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1451bb6c09590514da149bcf6ed192af
+    layerID: 2
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
